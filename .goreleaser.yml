@@ -28,5 +28,6 @@ brew:
     owner: mpas
     name: homebrew-slide-serve
   folder: Formula
-  homepage: https://www.nu.nl
-  description: test
+  homepage: https://github.com/cdreier/slide-serve
+  description: |
+    small presentation and dev server for simple slides, based on https://github.com/trikita/slide-html
